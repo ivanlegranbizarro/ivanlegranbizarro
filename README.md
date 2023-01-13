@@ -1,10 +1,10 @@
-### <div align="center">Hola! Soy Iván Legrán, semi-filólogo, escritor y programador de backend</div>
-### <div style='float:left; width:30%; margin-bottom: 20px'><div/>
- 
+### <div align="center">Hola! Soy Iván Legrán, semi-filólogo, escritor y programador de backend
 
- 
- 
- 
+
+
+
+</div>  
+  
 
 - 🏫 Actualmente, estoy terminando mi  Bootcamp con la IT Academy  en Node JS  
   
