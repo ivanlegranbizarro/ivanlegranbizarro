@@ -4,7 +4,7 @@
 - 🏫 Actualmente, estoy terminando mi  Bootcamp con la IT Academy  en Node JS  
   
 
-- 🌱 También estoy desarrollando mis propios proyectos en Django  
+- 🤓 También estoy desarrollando mis propios proyectos en Django  
   
 
 - ❓ Uso un teclado que solamente yo entiendo  
