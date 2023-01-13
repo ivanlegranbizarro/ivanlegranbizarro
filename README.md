@@ -1,4 +1,7 @@
-### <div align="center">Hola! Soy Iván Legrán, semi-filólogo, escritor y programador de backend</div>  
+### <div align="center">Hola! Soy Iván Legrán, semi-filólogo, escritor y programador de backend</div>
+### <div align="center"></div>  
+### <div align="center"></div>  
+### <div align="center"></div>  
  
 
  
