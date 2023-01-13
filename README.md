@@ -10,7 +10,7 @@
 - ❓ Uso un teclado que solamente yo entiendo  
   
 
-- ⚡ Puede que esté leyendo el Quijote, o puede que esté otra vez con Harry Potter...  
+- 📚 Puede que esté leyendo el Quijote, o puede que esté otra vez con Harry Potter...  
   
 
 <br/>  
