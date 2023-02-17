@@ -65,6 +65,20 @@
 
 <br/>  
 
+## Proyectos Destacados
+
+Aquí te presento algunos de mis proyectos más destacados:
+
+- `chatSprint5`: Un chat en tiempo real construido con Node.js y Socket.io, que permite a los usuarios conectarse a una sala y enviar mensajes en tiempo real.
+
+- `hackathonVueling`: Una aplicación web construida en React y Node.js, que permite a los usuarios buscar vuelos y reservar asientos.
+
+- `drfApiRest`: Una API REST construida con Django Rest Framework, que permite a los usuarios acceder a información sobre diferentes recursos.
+
+- `workingOnMars`: Una API REST construida con Laravel e inspirada en Infojobs para ayudar a los usuarios a buscar trabajo inscribiéndose en ofertas activas.
+
+<br/>  
+
 
 ## Connect with me  
 <div align="center">
