@@ -69,7 +69,8 @@
 
 Aquí te presento algunos de mis proyectos más destacados:
 
-- `chatSprint5`: Un chat en tiempo real construido con Node.js y Socket.io, que permite a los usuarios conectarse a una sala y enviar mensajes en tiempo real.
+- `socketChat`: Un chat en tiempo real construido con Node.js y Socket.io, que permite a los usuarios conectarse a una sala y enviar mensajes en tiempo real.
+- - `djangoChannels`: Un chat en tiempo real construido con Django y Channels, que permite a los usuarios registrarse, crear salas, y chatear entre ellos en tiempo real con el uso de Sockets gracias a Django-Channels.
 
 - `hackathonVueling`: Una aplicación web construida en React y Node.js, que permite a los usuarios buscar vuelos y reservar asientos.
 
