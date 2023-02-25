@@ -69,14 +69,14 @@
 
 Aquí te presento algunos de mis proyectos más destacados:
 
-- `socketChat`: Un chat en tiempo real construido con Node.js y Socket.io, que permite a los usuarios conectarse a una sala y enviar mensajes en tiempo real.
-- - `djangoChannels`: Un chat en tiempo real construido con Django y Channels, que permite a los usuarios registrarse, crear salas, y chatear entre ellos en tiempo real con el uso de Sockets gracias a Django-Channels.
+- [socketChat](https://github.com/ivanlegranbizarro/socketChat): Un chat en tiempo real construido con Node.js y Socket.io, que permite a los usuarios conectarse a una sala y enviar mensajes en tiempo real.
+- [djangoChannels ](https://github.com/ivanlegranbizarro/djangoChannels): Un chat en tiempo real construido con Django y Channels, que permite a los usuarios registrarse, crear salas, y chatear entre ellos en tiempo real con el uso de Sockets gracias a Django-Channels.
 
-- `hackathonVueling`: Una aplicación web construida en React y Node.js, que permite a los usuarios buscar vuelos y reservar asientos.
+- [hackathonVueling](https://github.com/ivanlegranbizarro/hackathonVueling): Una aplicación web construida en React y Node.js, que permite a los usuarios buscar vuelos y reservar asientos.
 
-- `drfApiRest`: Una API REST construida con Django Rest Framework, que permite a los usuarios acceder a información sobre diferentes recursos.
+- [MasterClass Django RestFramework](https://github.com/ivanlegranbizarro/drfApiRest): Una API REST construida con Django Rest Framework, que permite a los usuarios acceder a información sobre diferentes recursos.
 
-- `workingOnMars`: Una API REST construida con Laravel e inspirada en Infojobs para ayudar a los usuarios a buscar trabajo inscribiéndose en ofertas activas.
+- [workingOnMars](https://github.com/ivanlegranbizarro/workingOnMars): Una API REST construida con Laravel e inspirada en Infojobs para ayudar a los usuarios a buscar trabajo inscribiéndose en ofertas activas.
 
 <br/>  
 
