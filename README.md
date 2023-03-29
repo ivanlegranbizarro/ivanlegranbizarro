@@ -74,7 +74,7 @@ Aquí te presento algunos de mis proyectos más destacados:
 
 - [hackathonVueling](https://github.com/ivanlegranbizarro/hackathonVueling): Una aplicación web construida en React y Node.js, que permite a los usuarios buscar vuelos y reservar asientos.
 
-- [MasterClass Django RestFramework](https://github.com/ivanlegranbizarro/masterClassDRF): Una API REST construida con Django Rest Framework, que permite a los usuarios acceder a información sobre diferentes recursos.
+- [IT Academy Wiki Clone](https://github.com/ivanlegranbizarro/ita-wiki-django): Una API REST construida con Django Rest Framework, que permite a los alumnos de la IT Academy compartir recursos de estudio.
 
 - [workingOnMars](https://github.com/ivanlegranbizarro/workingOnMars): Una API REST construida con Laravel e inspirada en Infojobs para ayudar a los usuarios a buscar trabajo inscribiéndose en ofertas activas.
 
